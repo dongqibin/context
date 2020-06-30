@@ -5,8 +5,7 @@
   "keywords": [
     "php",
     "swoole",
-    "context",
-    "swoft"
+    "context"
   ],
   "description": "packaging the context of swoole",
   "license": "Apache-2.0",
