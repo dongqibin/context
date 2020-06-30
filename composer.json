@@ -1,0 +1,18 @@
+{
+  "name": "dongqibin/context",
+  "version": "v1.0.0",
+  "type": "library",
+  "keywords": [
+    "php",
+    "swoole",
+    "context",
+    "swoft"
+  ],
+  "description": "packaging the context of swoole",
+  "license": "Apache-2.0",
+  "autoload": {
+    "psr-4": {
+      "Dongqibin\\Context\\": "src/"
+    }
+  }
+}
