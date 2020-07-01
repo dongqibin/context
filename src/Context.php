@@ -3,8 +3,6 @@
 
 namespace Dongqibin\Context;
 
-
-use Swoole\ArrayObject;
 use Swoole\Coroutine;
 
 class Context

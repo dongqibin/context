@@ -51,7 +51,7 @@ Client::set('key', 'val');
 
 ##### 协程ID相关
 * getCid():int
-* getPcid(int $cid):int
+* getPcid(int $cid = null):int
 * getFirst():int
 * getSecond():int
 * getByLevel(int $level):int
